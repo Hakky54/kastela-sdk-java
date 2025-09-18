@@ -33,8 +33,8 @@
     </dependency>
     <dependency>
       <groupId>io.github.hakky54</groupId>
-      <artifactId>sslcontext-kickstart-for-pem</artifactId>
-      <version>7.4.11</version>
+      <artifactId>ayza-for-pem</artifactId>
+      <version>10.0.0</version>
     </dependency>
     <dependency>
       <groupId>com.sparkjava</groupId>
